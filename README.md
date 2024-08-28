@@ -1,4 +1,4 @@
-## <p align="center">Hey, I'm [Nikhil Dhariwal](https://linkfree.io/404Nikhil).</p>
+## <p align="center">Hey, I'm [Shashwat Trivedi](https://linkfree.io/404Nikhil).</p>
 
 <h3 align="center">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
@@ -11,14 +11,6 @@
 
 ##
 
-```ts
-private static int updateDesktop (Image wallpaper) {
-int happiness;
-MyDesktop desktop = new MyDesktop();
-desktop.apply (wallpaper); happiness = INFINITY;
-return happiness;
-}
-```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404Nikhil&label=Profile%20views&color=129e00&style=plastic" alt="404Nikhil" /> </p>
 
 <h1 align="center"> 🔥 Contributions: </h1>
