@@ -1,3 +1,5 @@
+## <p align="center">Hey, I'm [Shashwat Trivedi].</p>
+
 - 👋 Hi, I’m @Shashwat-Trivedi
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,9 +7,4 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-private static int updateDesktop (Image wallpaper) {
-int happiness;
-MyDesktop desktop = new MyDesktop();
-desktop.apply (wallpaper); happiness = INFINITY;
-return happiness;
-}
+
