@@ -5,10 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
-Shashwat-Trivedi/Shashwat-Trivedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![image](https://github.com/user-attachments/assets/c23255d5-cfa5-47e6-be39-e329f6d80e24)
-![image](https://github.com/user-attachments/assets/bb9d5074-f900-4a83-92f7-7131955c07cd)
+private static int updateDesktop (Image wallpaper) {
+int happiness;
+MyDesktop desktop = new MyDesktop();
+desktop.apply (wallpaper); happiness = INFINITY;
+return happiness;
+}
