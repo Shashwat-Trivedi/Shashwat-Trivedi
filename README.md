@@ -19,7 +19,7 @@ return happiness;
 }
 ```
 # 💫 About Me:
-Hola, Amigos!<br>I am a frist-year undergraduate student at the Army Institute of Technology Pune. I am currently pursuing a B.E. degree in Information technology. I am passionate about coding, Blockchain and Web Development. I am focussing on learning more about  C++ , java script, and Solidity. In addition to my background, I am also a keen learner and enjoy exploring emerging technologies. I'm always excited to work with like-minded individuals to create innovative solutions. I look forward to collaborating, exchanging ideas, and collectively creating remarkable projects.
+Hola, Amigos!<br>I am a first-year undergraduate student at the Army Institute of Technology Pune. I am currently pursuing a B.E. degree in Information technology. I am passionate about coding, Blockchain and Web Development. I am focussing on learning more about  C++ , java script, and Solidity. In addition to my background, I am also a keen learner and enjoy exploring emerging technologies. I'm always excited to work with like-minded individuals to create innovative solutions. I look forward to collaborating, exchanging ideas, and collectively creating remarkable projects.
 
   ## 🙋‍♂️ Connect with me
 
